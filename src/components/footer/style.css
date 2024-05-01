@@ -1,0 +1,6 @@
+.footer-wrapper{
+    height: 20vh;
+    border: 1px solid gray;
+    color: var(--nav-link-color);
+
+}

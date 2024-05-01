@@ -1,0 +1,6 @@
+.section-wrapper{
+    height: 40vh;
+    border: 1px solid blue;
+    color: var(--nav-link-color);
+    background: var(--bg-color);
+}

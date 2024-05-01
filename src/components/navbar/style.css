@@ -1,0 +1,6 @@
+.nav-wrapper{
+    color: var(--nav-link-color);
+    border: 1px solid black;
+    height: 30vh;
+    font-family: "Lato-Regular";
+}
